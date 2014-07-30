@@ -1,2 +1,2 @@
-InsightLogo
+Insight Logo in matplotlib
 ===========
